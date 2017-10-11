@@ -30,10 +30,10 @@ description: "網頁系統開發課程 weblog"
 my:
     displayName: AU-CSIE
     realName: HTCHU
-    realName_cn: 朱學亭
+    realName_cn: 郭家源
     jobTitle: "Web programmer"
     contact:
-        email: prof.htchu@gmail.com
+        email: 105021051@live.asia.edu.tw
         github: http://www.github.com/htchutw
     skills:
         frontend: ["HTML | Markdown", "CSS | SASS", "JS | jQuery", "Bootstrap"]
